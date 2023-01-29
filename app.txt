@@ -30,7 +30,7 @@ Benvenuto!
         Seleziona il tuo client di videochiamata (zoom, jitsi, skype, discord, telegram)
         Seleziona il tuo client di chat (telegram, discord, skype, slack, whatsapp)
         Seleziona il tuo client di messaggistica (telegram, discord, skype, slack, whatsapp)
-        
+
 
         //configurazione Gaming:
           Vuoi installare qualche client? (si/no)
@@ -55,3 +55,17 @@ Benvenuto!
 L'ideale sarebbe avere come output 2 file:
   - un file sh da eseguire
   - un file da inserire nel programma in input per poter modificare la configurazione
+
+
+Flow dell'app visto dall'utente 
+  1) L'utente sceglie la sua distro
+  2) L'utente sceglie la sua configurazione
+  3) L'utente sceglie i pacchetti da installare
+  4) L'app genera un file sh da eseguire
+  5) L'app genera un file da inserire nel programma in input per poter modificare la configurazione
+  6) L'utente esegue il file sh
+
+Flow dell'app visto dal programmatore
+  1) l'utente apre l'app
+  2) viene scaricata la lista delle distro disponibili
+  3) in base alla distro scelta viene scaricata la lista delle configurazioni disponibili
