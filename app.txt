@@ -63,7 +63,6 @@ Flow dell'app visto dall'utente
   3) L'utente sceglie i pacchetti da installare
   4) L'app genera un file sh da eseguire
   5) L'app genera un file da inserire nel programma in input per poter modificare la configurazione
-  6) L'utente esegue il file sh
 
 Flow dell'app visto dal programmatore
   1) l'utente apre l'app
