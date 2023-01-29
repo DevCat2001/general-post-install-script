@@ -1,17 +1,25 @@
 //home
 Benvenuto!
-  Che tipo di sistema vuoi configurare? 
-    Seleziona il tuo sistema operativo: 
-      Windows -> crea un file zip contenente tutti gli installer, ed un file bat per farli partire tutti
-      Linux -> crea un file sh per installare tutti i pacchetti
-      Mac -> ???
-      Unix (non ancora supportato) -> stessa cosa di Windows ma con un file sh
+  Scegli la tua distro (Debian/Ubuntu based, Arch Based, Fedora Based)
+    Seleziona la tua distro
   Crea una nuova configurazione
     //configurazione base:
+      installa i pacchetti base (si/no)
+      vuoi installare alcuni programmi interessanti da terminale? (si/no)
       Vuoi un Desktop envoirment? (si/no)
-        Seleziona il tuo DE
-      Vuoi un IDE? (si/no)
-        Seleziona i tuoi IDE
+        Seleziona il tuo DE      
+      Vuoi installare un browser? (si/no)
+        Seleziona il tuo browser
+      Che tipo di utilizzo farai del tuo pc? 
+        Seleziona il tuo utilizzo
+
+        //configurazione Gaming:
+        // Configurazione WorkStation:
+        // Configurazione Server:
+        // Configurazione Multimedia:
+        // Configurazione Developer:
+
+
   Modifica una configurazione esistente
     Inserisci il file di configurazione
 
