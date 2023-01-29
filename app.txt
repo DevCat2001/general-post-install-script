@@ -1,7 +1,11 @@
 //home
 Benvenuto!
   Che tipo di sistema vuoi configurare? 
-    Seleziona il tuo sistema operativo: (Windows/Linux/Mac/Unix)
+    Seleziona il tuo sistema operativo: 
+      Windows -> crea un file zip contenente tutti gli installer, ed un file bat per farli partire tutti
+      Linux -> crea un file sh per installare tutti i pacchetti
+      Mac -> ???
+      Unix (non ancora supportato) -> stessa cosa di Windows ma con un file sh
   Crea una nuova configurazione
     //configurazione base:
       Vuoi un Desktop envoirment? (si/no)
