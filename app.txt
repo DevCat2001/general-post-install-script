@@ -1,19 +1,11 @@
 //home
 Benvenuto!
   Crea una nuova configurazione
-    Che tipo di Sistema vuoi configurare?
-      Desktop
-      Server
-      WorkStation 
+    //configurazione base:
+      Vuoi un Desktop envoirment? (si/no)
+        Seleziona il tuo DE
+      Vuoi un IDE? (si/no)
+        Seleziona i tuoi IDE
+      
+    
   Modifica una configurazione esistente
-
-//Configurazione base
-Che desktop envoirment vuoi installare?
-  seleziona il tuo DE
-
-//Configurazione DEV
-Che IDE vuoi installare?
-  Seleziona i tuoi IDE
-
-//Configurazione Server
-  
