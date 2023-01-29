@@ -73,3 +73,16 @@ Flow dell'app visto dal programmatore
   6) viene generato il file sh da eseguire
   7) l'utente scarica il file
 
+file di installazione per Fedora
+  sudo dnf install -y git curl wget
+
+file di configurazione
+  {
+    "distro_type": "fedora_based",
+    "apps": [
+      {
+        "app_name": "git",
+        "app_code": "1234"
+      }
+    ]
+  }
