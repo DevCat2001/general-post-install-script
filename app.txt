@@ -1,11 +1,17 @@
 //home
 Benvenuto!
+  Che tipo di sistema vuoi configurare? 
+    Seleziona il tuo sistema operativo: (Windows/Linux/Mac/Unix)
   Crea una nuova configurazione
     //configurazione base:
       Vuoi un Desktop envoirment? (si/no)
         Seleziona il tuo DE
       Vuoi un IDE? (si/no)
         Seleziona i tuoi IDE
-      
-    
   Modifica una configurazione esistente
+    Inserisci il file di configurazione
+
+
+L'ideale sarebbe avere come output 2 file:
+  - un file sh da eseguire
+  - un file da inserire nel programma in input per poter modificare la configurazione
