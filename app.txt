@@ -1,7 +1,7 @@
 //home
 Benvenuto!
-  Scegli la tua distro (Debian/Ubuntu based, Arch Based, Fedora Based)
-    Seleziona la tua distro
+  Scegli la tua distro 
+    Seleziona la tua distro (Debian/Ubuntu based, Arch Based, Fedora Based, non lo so)
   Crea una nuova configurazione
     //configurazione base:
       installa i pacchetti base (si/no)
@@ -69,3 +69,8 @@ Flow dell'app visto dal programmatore
   1) l'utente apre l'app
   2) viene scaricata la lista delle distro disponibili
   3) in base alla distro scelta viene scaricata la lista delle configurazioni disponibili
+  4) in base alla configurazione scelta viene scaricata la lista dei pacchetti disponibili
+  5) l'utente sceglie i pacchetti da installare
+  6) viene generato il file sh da eseguire
+  7) l'utente scarica il file
+
