@@ -11,13 +11,41 @@ Benvenuto!
       Vuoi installare un browser? (si/no)
         Seleziona il tuo browser
       Che tipo di utilizzo farai del tuo pc? 
-        Seleziona il tuo utilizzo
+        //configurazione base: 
+        Seleziona il tuo Browser (firefox, chrome, chromium, opera, brave, vivaldi, edge)
+        Seleziona il tuo media player (vlc, mpv, kodi)
+        Seleziona il tuo editor video (kdenlive, openshot, shotcut)
+        Seleziona il tuo editor audio (audacity, lmms, ardour)
+        Seleziona il tuo editor grafico (gimp, inkscape, krita)
+        Seleziona il tuo editor di testo (gedit, sublime, vscode, atom, vim, nano)
+        Seleziona il tuo client di posta (thunderbird, evolution, geary, mutt)
+        Seleziona il tuo client torrent (qbittorrent, transmission, deluge, rtorrent)
+        Seleziona il tuo client irc (hexchat, weechat, irssi)
+        Seleziona il tuo client di messaggistica (telegram, discord, skype, slack, whatsapp)
+        Seleziona il tuo client di file sharing (syncthing, nextcloud, owncloud, seafile)
+        Seleziona il tuo client di cloud (nextcloud, owncloud, seafile)
+        Seleziona il tuo client di backup (duplicati, restic, borg)
+        Seleziona il tuo client di virtualizzazione (virtualbox, vmware, qemu)
+        Seleziona il tuo client di streaming (vlc, mpv, kodi)
+        Seleziona il tuo client di videochiamata (zoom, jitsi, skype, discord, telegram)
+        Seleziona il tuo client di chat (telegram, discord, skype, slack, whatsapp)
+        Seleziona il tuo client di messaggistica (telegram, discord, skype, slack, whatsapp)
+        
 
         //configurazione Gaming:
+          Vuoi installare qualche client? (si/no)
+            Seleziona i tuoi client: steam (si/no), origin (si/no), epic games (si/no), uplay (si/no), battle.net (si/no), lutris (si/no)
         // Configurazione WorkStation:
+          // Configurazione Dev:
+            Seleziona i tuoi ide preferiti
+              vscode, sublime, eclipse
+            Seleziona le tecnologie con le quali lavori
+              Angular, react, Vue, WP...
+            Vuoi installare un web server? (si/no)
         // Configurazione Server:
-        // Configurazione Multimedia:
-        // Configurazione Developer:
+          // Configurazione Media Server:
+          // Configurazione Web Server:
+          // Configurazione File Server:
 
 
   Modifica una configurazione esistente
